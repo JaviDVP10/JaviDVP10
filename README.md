@@ -14,8 +14,12 @@ Trabajo con una mentalidad técnica y metódica: diseño soluciones limpias, esc
 
 
 # Contacto
+
+
 Si tienes dudas, preguntas o simplemente quieres comentar algún proyecto, puedes escribirme al correo de Pixel Core Automation. Estaré encantado de responderte:
 📧 pixelcoreautomation@gmail.com
+
+<img width="1536" height="1024" alt="PixelCoreAutomation_Logo_Banner" src="https://github.com/user-attachments/assets/eeb75664-d040-45bd-a75f-71b3845d7057" />
 
 <!--
 **JaviDVP10/JaviDVP10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
